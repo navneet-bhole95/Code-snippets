@@ -11,4 +11,4 @@ for i in a:
         found = 1
 
 if not found:
-    print(f"Element {s} not found in the array.")    
+    print(f"Element {s} not found in the array.")   
